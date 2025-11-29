@@ -1,4 +1,4 @@
-# Fashion_Hub
+# FashionHub
 
 A modern and clean e-commerce product page built with HTML & CSS.
 
@@ -6,9 +6,9 @@ Built purely with semantic HTML5 and meticulously styled CSS3, this project focu
 
 ## 📸 Preview
 
-You can view a live demo of this project here: [Fashion Hub](https://mamalireza.github.io/Fashion_Hub/)
+You can view a live demo of this project here: [FashionHub](https://mamalireza.github.io/fashion-hub/)
 
-![Fashion Hub](https://github.com/Mamalireza/Fashion_Hub/blob/main/Fashion_Hub.png)
+![FashionHub](https://github.com/Mamalireza/fashion-hub/blob/main/fashion-hub.png)
 
 ## 🛠️ Tech Stack
 
